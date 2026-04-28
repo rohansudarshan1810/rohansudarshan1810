@@ -43,15 +43,15 @@ Designing high-performance **ETL/CDC connectors** (DynamoDB, MongoDB Change Stre
 ### Programming & Languages
 **Python (Advanced), Java (Advanced), Go, JavaScript, TypeScript, Scala, SQL**
 
-### 📡 Observability & DevOps
+### Observability & DevOps
 **OpenTelemetry, Langfuse, Sentry, Datadog, PagerDuty** alert pipelines with deduplication and severity normalization.
 
-### 🤝 Collaboration & Impact
+### Collaboration & Impact
 Mentored engineers through structured onboarding, integrated LLM-powered tooling for engineering teams, and shipped frameworks adopted across multiple internal teams.
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of Illinois Chicago**
 Master of Science in Computer Science
@@ -63,9 +63,9 @@ Bachelor of Engineering in Computer Science
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 🌐 **Portfolio:** [rohansudarshan1810.github.io](https://rohansudarshan1810.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/rohankarlesudarshan](https://linkedin.com/in/rohankarlesudarshan)
-- 💻 **GitHub:** [github.com/rohansudarshan1810](https://github.com/rohansudarshan1810)
-- ✉️ **Email:** rohanks1810@gmail.com
+- **Portfolio:** [rohansudarshan1810.github.io](https://rohansudarshan1810.github.io/)
+- **LinkedIn:** [linkedin.com/in/rohankarlesudarshan](https://linkedin.com/in/rohankarlesudarshan)
+- **GitHub:** [github.com/rohansudarshan1810](https://github.com/rohansudarshan1810)
+- **Email:** rohanks1810@gmail.com
