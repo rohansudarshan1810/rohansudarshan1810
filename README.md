@@ -18,18 +18,18 @@ I enjoy working on high-impact problems at the intersection of AI infrastructure
 
 ---
 
-## 🚀 Core Strengths
+##  Core Strengths
 
-### 🤖 AI & GenAI Infrastructure
+###  AI & GenAI Infrastructure
 Building autonomous multi-agent systems with **CrewAI**, dynamic skill loading, and end-to-end **MCP** integration. Production **RAG pipelines** with structural/semantic chunking and **pgvector**. Provider-agnostic LLM routing across **OpenAI, Anthropic, AWS Bedrock, and Vertex AI** via LiteLLM.
 
-### ⚙️ Distributed Systems & Backend Engineering
+###  Distributed Systems & Backend Engineering
 Architecting durable workflow pipelines with **NATS JetStream, Temporal, Kafka, and gRPC**. Building high-throughput backends with **FastAPI, Node.js, and Express**, designed for multi-tenant scale.
 
-### 📊 Data Engineering & Pipelines
+###  Data Engineering & Pipelines
 Designing high-performance **ETL/CDC connectors** (DynamoDB, MongoDB Change Streams, Oracle RAC/PDB, JDBC). Performance profiling with **Java Flight Recorder** for production throughput optimization at scale.
 
-### ☁️ Cloud Platforms & Services
+### Cloud Platforms & Services
 
 | Platform | Services |
 |----------|----------|
@@ -37,14 +37,11 @@ Designing high-performance **ETL/CDC connectors** (DynamoDB, MongoDB Change Stre
 | **GCP** | Vertex AI, BigQuery, Cloud Storage |
 | **Kubernetes Ecosystem** | Docker, Helm, Terraform, GitHub Actions |
 
-### 🗄️ Databases & Storage
+###  Databases & Storage
 **PostgreSQL, MongoDB, DynamoDB, Oracle, Redis, pgvector** — across OLTP, OLAP, and vector workloads.
 
-### 💻 Programming & Languages
+### Programming & Languages
 **Python (Advanced), Java (Advanced), Go, JavaScript, TypeScript, Scala, SQL**
-
-### 🔐 Security & Multi-Tenancy
-**AES-GCM encryption, BYOK credential isolation, JWT, OAuth 2.0, OPA-based authorization**, multi-tenant security hardening.
 
 ### 📡 Observability & DevOps
 **OpenTelemetry, Langfuse, Sentry, Datadog, PagerDuty** alert pipelines with deduplication and severity normalization.
